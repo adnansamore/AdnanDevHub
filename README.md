@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&random=false&width=460&lines=Welcome+to+my+profile!;AdnanDevHub)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Shadows+Into+Light+Two&pause=1000&random=false&width=460&lines=Welcome+to+my+profile!;Adnan)](https://git.io/typing-svg)
 - 📫 How to reach me **adnansamore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
